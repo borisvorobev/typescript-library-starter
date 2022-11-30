@@ -15,7 +15,7 @@ A starter kit for developing TypeScript libraries and automating their releases.
 Clone this repository and delete the Git history:
 
 ```
-git clone https://github.com/llorca/typescript-library-starter && rm -rf typescript-library-starter/.git
+git clone https://github.com/borisvorobev/typescript-library-starter && rm -rf typescript-library-starter/.git
 ```
 
 Search for the `TLS_CONFIG` string in the project, then replace each occurrence with your desired configuration.
